@@ -6,7 +6,7 @@ and CSS libraries.
 [![Build status](https://ci.appveyor.com/api/projects/status/o2oc8nlxf6lqr787?svg=true)](https://ci.appveyor.com/project/madskristensen/packman)
 
 Download the extension at the
-[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/3b329021-cd7a-4a01-86fc-714c2d05bb6c)
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/ce753d0f-f511-4b2b-93de-5cc50145dca6)
 or get the
 [nightly build](http://vsixgallery.com/extension/ce753d0f-f511-4b2b-93de-5cc50145dca6/)
 
